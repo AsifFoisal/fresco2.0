@@ -1,0 +1,6 @@
+{
+  "name": "Fresco - Italian Restaurant",
+  "description": "Authentic Italian specialties, locally crafted food and wine serving since 1978.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
