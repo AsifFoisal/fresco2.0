@@ -14,7 +14,6 @@ A contemporary single-page editorial website for an Italian trattoria, featuring
 - [Folder Structure](#folder-structure)
 - [Contributions](#contributions)
 - [How to Contribute](#how-to-contribute)
-- [License](#license)
 - [Contact](#contact)
 
 ---
